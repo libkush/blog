@@ -126,6 +126,7 @@ Figures should try to use the `figure` element, which by default are constrained
   ind="⊕"
   label="mn-export-import"
   alt="Exports and Imports to and from Denmark & Norway from 1700 to 1780"
+  quality=text
 >}}
 
 {{< figure
