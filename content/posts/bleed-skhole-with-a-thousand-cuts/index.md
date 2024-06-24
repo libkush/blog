@@ -1,6 +1,6 @@
 ---
 author: Kush Patel
-date: '2024-06-24T23:41:57+05:30'
+date: '2024-06-18T23:41:57+05:30'
 title: 'Bleed Skholē With a Thousand Cuts'
 meta: true
 math: true
