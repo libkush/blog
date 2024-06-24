@@ -5,7 +5,7 @@ title: 'Bleed Skholē With a Thousand Cuts'
 meta: true
 math: true
 toc: true
-categories: []
+categories: ['opinion', 'india', 'education']
 subtitle: A critique of Indian STEM education
 ---
 

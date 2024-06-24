@@ -5,7 +5,7 @@ title: 'About Teaching Computer Science'
 meta: true
 math: true
 toc: true
-categories: []
+categories: ['education']
 ---
 
 {{< figure
