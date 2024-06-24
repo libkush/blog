@@ -45,15 +45,17 @@ params:
   # ######## Common social website links, please comment the unused ones.
   # (if your favorite one is not in the list, please head to the footer menu below and add an entry)
   # Please note that some of the value below are only provided as an exemple, perhaps the computed isn't valid
-  # github: slashformotion
+  github: libkush
+  copyright: 
+  copyrightHolder: Kush.in
   # gitlab: slashformotion
   # linkedin: <insert_here>
   # twitter: slashformotion
   # patreon: ''
-  # youtube: user/ChromeDevelopers # check the end of your youtube url https://www.youtube.com/<copy_this>
+  youtube: '@libkush' # check the end of your youtube url https://www.youtube.com/<copy_this>
   # medium: slashformotion
   # reddit: Slashformotion
-  # stackoverflow: 16609732/slashformotion
+  stackoverflow: 14747369/libkush
   # instagram: google
   # mastodon: instance.url/@username
   # orcid: 0000-0003-0634-3275
@@ -89,8 +91,12 @@ menu:
 # FOOTER MENU
 # If you need to add custom links to you footer: put them here.
 # -----------------------------------------------------------------------
-  # footer:
-  #   - name: Custom footer link
-  #     weight: -90
-  #     identifier: custom_link
-  #     url: 'https://example.com'
+  footer:
+    - name: Discord
+      weight: -90
+      identifier: discord
+      url: 'https://discordapp.com/users/936903400073859093'
+    - name: RSS
+      weight: -90
+      identifier: rss
+      url: 'http://localhost:1313/index.xml'
