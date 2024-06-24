@@ -6,6 +6,7 @@ meta: true
 math: true
 toc: true
 categories: []
+subtitle: A critique of Indian STEM education
 ---
 
 The etymology geeks would know that skholē is an ancient Greek word used for a place of philosophical discussion and leisure that eventually became today's "school". However, in that sense, skholḗ is already dead, but we are killing the very idea that skholḗ carried for academia with a thousand cuts.
