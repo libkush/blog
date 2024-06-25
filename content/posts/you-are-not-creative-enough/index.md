@@ -5,7 +5,7 @@ title: 'You Are Not Creative Enough'
 meta: true
 math: true
 toc: true
-categories: []
+categories: ['thoughts']
 ---
 
 So today I had an existential crisis due to a single thought. You probably think you have infinite creativity like me. Everyone thinks their thoughts are not bound, right? Well, I just hit the boundary today. You are not creative. Or at least creativity is not what you think it is.

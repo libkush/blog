@@ -5,7 +5,7 @@ title: 'The Tech Startup Hype Is Hurting India'
 meta: true
 math: true
 toc: true
-categories: ['opinion', 'india', 'startups']
+categories: ['thoughts', 'india', 'startups']
 ---
 
 If you come across a headline like "[A 16-year-old Indian girl launched an AI company in 2022, it is now valued at Rs 100 crore](https://www.businesstoday.in/technology/news/story/16-year-old-indian-girl-launched-an-ai-company-in-2022-it-is-now-valued-at-rs-100-crore-401309-2023-10-10)" today, wouldn't you be surprised? How inspiring! India is growing, the kids here are extremely talented. Or is it 🤨?
