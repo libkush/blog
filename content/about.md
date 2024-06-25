@@ -1,8 +1,8 @@
 ---
-title: "About This Site"
+title: "About Me"
 hasMath: false
 _build:
   list: never
 ---
 
-This is the example site for [hugo-tufte](https://github.com/loikein/hugo-tufte), a theme for the static site generator [Hugo](https://gohugo.io/).
+Haven't built this yet ¯\_(ツ)_/¯
