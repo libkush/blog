@@ -95,8 +95,8 @@ menu:
     - name: Discord
       weight: -90
       identifier: discord
-      url: 'https://discordapp.com/users/936903400073859093'
+      url: 'https://discordapp.com/users/788684047894839307'
     - name: RSS
       weight: -90
       identifier: rss
-      url: 'http://localhost:1313/index.xml'
+      url: '/index.xml'
