@@ -6,6 +6,8 @@ meta: true
 math: true
 toc: true
 categories: ['education']
+aliases:
+   - /post/about-teaching-computer-science
 ---
 
 {{< figure
