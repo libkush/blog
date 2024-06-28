@@ -3,7 +3,6 @@ author: Kush Patel
 date: '2023-03-19T13:29:12+05:30'
 title: 'You Are Not Creative Enough'
 meta: true
-math: true
 toc: true
 categories: ['thoughts']
 aliases:

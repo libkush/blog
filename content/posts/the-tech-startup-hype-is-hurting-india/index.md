@@ -3,7 +3,6 @@ author: Kush Patel
 date: '2023-10-12T22:39:42+05:30'
 title: 'The Tech Startup Hype Is Hurting India'
 meta: true
-math: true
 toc: true
 categories: ['thoughts', 'india', 'startups']
 aliases:

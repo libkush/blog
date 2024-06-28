@@ -3,7 +3,6 @@ author: Kush Patel
 date: '2023-06-25T23:12:28+05:30'
 title: 'About Teaching Computer Science'
 meta: true
-math: true
 toc: true
 categories: ['education']
 aliases:
