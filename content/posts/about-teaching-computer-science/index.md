@@ -7,7 +7,7 @@ toc: true
 categories: ['education']
 aliases:
    - /post/about-teaching-computer-science
-description: "Important takeaway from Grant Sanderson's talk on Math's pedagogical curse and prospects for the future of this blog for Computer Science based on it."
+summary: "Important takeaway from Grant Sanderson's talk on Math's pedagogical curse and prospects for the future of this blog for Computer Science based on it."
 ---
 
 {{< figure

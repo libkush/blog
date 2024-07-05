@@ -7,7 +7,7 @@ toc: true
 categories: ['thoughts', 'india', 'startups']
 aliases:
    - /post/tech-startup-hype-is-hurting-india
-description: "India's tech startup hype is causing more harm than good. Youth is encouraged to build useless startups over important futuristic technologies, and is beginning to assume startup as an alternative to rigorous education. This article shows a few examples of such useless and fraudulent startups."
+summary: "India's tech startup hype is causing more harm than good. Youth is encouraged to build useless startups over important futuristic technologies, and is beginning to assume startup as an alternative to rigorous education. This article shows a few examples of such useless and fraudulent startups."
 ---
 
 If you come across a headline like "[A 16-year-old Indian girl launched an AI company in 2022, it is now valued at Rs 100 crore](https://www.businesstoday.in/technology/news/story/16-year-old-indian-girl-launched-an-ai-company-in-2022-it-is-now-valued-at-rs-100-crore-401309-2023-10-10)" today, wouldn't you be surprised? How inspiring! India is growing, the kids here are extremely talented. Or is it 🤨?

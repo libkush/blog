@@ -7,7 +7,7 @@ toc: true
 categories: ['thoughts']
 aliases:
    - /post/you-are-not-creative-enough
-description: "Have you ever thought about how limited your imagination is? What we think is 'original' is never really novel, or out of this world. It is just an amalgamation of existing ideas in your head arranged in a novel way."
+summary: "Have you ever thought about how limited your imagination is? What we think is 'original' is never really novel, or out of this world. It is just an amalgamation of existing ideas in your head arranged in a novel way."
 ---
 
 So today I had an existential crisis due to a single thought. You probably think you have infinite creativity like me. Everyone thinks their thoughts are not bound, right? Well, I just hit the boundary today. You are not creative. Or at least creativity is not what you think it is.
