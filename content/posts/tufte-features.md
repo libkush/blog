@@ -8,7 +8,6 @@ math: true
 toc: true
 # hideDate: true
 # hideReadTime: true
-expiryDate: '2023-04-16T16:03:45+0100'
 categories: [katex, latex, tufte-css]
 description: "If the description field is not empty, its contents will show in the home page instead of the first 140 characters of the post."
 ---
@@ -107,14 +106,14 @@ This is what you came here for. {{< marginnote >}}This is a marginnote. It has n
 
 {{< epigraph author="Shawn O'Hare" cite="Math is Fun" detail="p.8" >}}
 This is an example of an epigraph with some math
-`$ \mathbb N \subseteq \mathbb R $`
+$ \mathbb N \subseteq \mathbb R $
 to start the beginning of a section.
 {{< /epigraph >}}
 
 ```html
 {{</* epigraph author="Shawn O'Hare" cite="Math is Fun" detail="p.8" */>}}
 This is an example of an epigraph with some math
-`$ \mathbb N \subseteq \mathbb R $`
+$ \mathbb N \subseteq \mathbb R $
 to start the beginning of a section.
 {{</* /epigraph */>}}
 ```
@@ -123,7 +122,7 @@ to start the beginning of a section.
 
 Some blockquotes.  But first, we try to manually cite via
 
-<cite>This is between cite tags and has math: `$e^x $`</cite> {{< sidenote >}}Only use `$\KaTeX{}$`, you must.{{< /sidenote >}}
+<cite>This is between cite tags and has math: $e^x $</cite> {{< sidenote >}}Only use $\KaTeX{}$, you must.{{< /sidenote >}}
 
 {{< blockquote author="Shawn O'Hare" cite="www.shawnohare.com" >}}
 This is a blockquote with two paragraphs, that employs the
@@ -341,11 +340,33 @@ ref: https://burk.io/2020/let-there-be-dark
 
 ### LaTeX & Table
 
-`$\LaTeX{}$`
 
-`$$R_1 \begin{cases} >\mu_{2} \\ \leq \mu_{2} \end{cases}$$`
+Inline $\LaTeX{}$
 
-| Message to agent 1 | `$M_1$`          |
+$$R_1 \begin{cases} >\mu_{2} \\ \leq \mu_{2} \end{cases}$$
+
+| Message to agent 1 | $M_1$          |
 | ------------------ | -------------- |
-| Agent 1's action   | `$a_1$`          |
-| New finding        | `$R_1 \begin{cases} >\mu_{2} \\ \leq \mu_{2} \end{cases}$` |
+| Agent 1's action   | $a_1$          |
+| New finding        | $R_1 \begin{cases} >\mu_{2} \\ \leq \mu_{2} \end{cases}$ |
+
+
+Following is the math test which was [mentioned in the forum](https://discourse.gohugo.io/t/katex-in-hugo/43274/12)
+
+$$
+\begin{array} {lcl}
+  L(p,w_i) &=& \dfrac{1}{N}\Sigma_{i=1}^N(\underbrace{f_r(x_2
+  \rightarrow x_1
+  \rightarrow x_0)G(x_1
+  \longleftrightarrow x_2)f_r(x_3
+  \rightarrow x_2
+  \rightarrow x_1)}_{sample\, radiance\, evaluation\, in\, stage2}
+  \\\\\\ &=&
+  \prod_{i=3}^{k-1}(\underbrace{\dfrac{f_r(x_{i+1}
+  \rightarrow x_i
+  \rightarrow x_{i-1})G(x_i
+  \longleftrightarrow x_{i-1})}{p_a(x_{i-1})}}_{stored\,in\,vertex\, during\,light\, path\, tracing\, in\, stage1})\dfrac{G(x_k
+  \longleftrightarrow x_{k-1})L_e(x_k
+  \rightarrow x_{k-1})}{p_a(x_{k-1})p_a(x_k)})
+\end{array}
+$$

@@ -1,0 +1,78 @@
+baseURL = "https://kush.in/"
+languageCode = "en-us"
+title = "Kush Patel"
+theme = "hugo-tufte"
+canonifyurls = true
+
+[paginator]
+pagerSize = 5
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.extensions]
+KaTeX = true
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+noClasses = false
+guessSyntax = true
+
+[params]
+subtitle = "sui generis."
+description = "I'm Kush Patel, a developer from India. I'm building guided missile systems using turbo encabulators. This website is big div energy"
+favicon = "./favicon.ico"
+touchicon = "./touch-icon.png"
+codeblocksdark = true
+marginNoteInd = "⊕"
+showPoweredBy = false
+hidedate = false
+showSummary = true
+math = true
+KaTeXVersion = "0.16.9"
+sansSubtitle = false
+centerArticle = false
+github = "libkush"
+copyrightHolder = "Kush.in"
+youtube = "@libkush"
+stackoverflow = "14747369/libkush"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[[menu.nav]]
+name = "Home"
+weight = -110
+identifier = "home"
+url = "/"
+
+[[menu.nav]]
+name = "Posts"
+weight = -100
+identifier = "posts"
+url = "/posts/"
+
+[[menu.nav]]
+name = "Categories"
+weight = -90
+identifier = "categories"
+url = "/categories/"
+
+[[menu.nav]]
+name = "About"
+weight = -80
+identifier = "about"
+url = "/about/"
+
+[[menu.footer]]
+name = "Discord"
+weight = -90
+identifier = "discord"
+url = "https://discordapp.com/users/788684047894839307"
+
+[[menu.footer]]
+name = "RSS"
+weight = -90
+identifier = "rss"
+url = "/index.xml"
