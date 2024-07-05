@@ -7,6 +7,7 @@ math: true
 toc: true
 categories: ['thoughts', 'india', 'education']
 subtitle: A critique of Indian STEM education
+description: "This article is a critical examination of the Indian STEM education system. It discusses my personal experiences and observations as a recent K-12 school graduate, highlighting the system's discouragement of curiosity and understanding in favor of rote memorization and test scores."
 ---
 
 The etymology geeks would know that skholē is an ancient Greek word used for a place of philosophical discussion and leisure that eventually became today's "school". However, in that sense, skholḗ is already dead, but we are killing the very idea that skholḗ carried for academia with a thousand cuts.
