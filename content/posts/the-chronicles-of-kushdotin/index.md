@@ -29,7 +29,7 @@ After a significant time of sticking with this cringe worthy page, I came to exp
 
 ## The Website With SvelteKit
 
-Here too, I started out with some template, but ended up making so many changes that I would barely call it a copy. I watched a couple of [Hyperplexed](https://www.youtube.com/@Hyperplexed)'s videos to bloat the entire website with a ton of css and fancy animations, only to gradually remove them one by one until it was minimalistic enough for me again. [This](https://web.archive.org/web/20230707135853/https://www.kush.in/) is what I ended up with. In terms of design choices, it was pretty decent. It was also fast enough, as sveltekit can generate static sites.
+Here too, I started out with some template, but ended up making so many changes that I would barely call it a copy. I watched a couple of [Hyperplexed](https://www.youtube.com/@Hyperplexed)'s videos to bloat the entire website with a ton of css and fancy animations, only to gradually remove them one by one until it was minimalistic enough for me again. [This](https://web.archive.org/web/20230707135853/https://www.kush.in/) is what I ended up with. In terms of design choices, it was pretty decent. It was also fast enough, as sveltekit has SSG.
 
 This website stuck around for quite a while, BytePost had been removed and the blog and landing page were consolidated into one website. It had an aesthetic look and decent performance. I tweaked it several times to get perfect lighthouse scores, and everything was really good and stable.
 
