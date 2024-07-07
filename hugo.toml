@@ -4,7 +4,7 @@ title = "Kush Patel"
 theme = "hugo-tufte"
 canonifyurls = true
 
-[paginator]
+[pagination]
 pagerSize = 5
 
 [markup]
