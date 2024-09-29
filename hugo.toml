@@ -10,12 +10,20 @@ pagerSize = 5
 [markup]
 [markup.goldmark]
 [markup.goldmark.extensions]
-KaTeX = true
+[markup.goldmark.extensions.passthrough]
+enable = true
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)'], ['$', '$']]
+[markup.goldmark.parser]
+[markup.goldmark.parser.attribute]
+block = true
 [markup.goldmark.renderer]
 unsafe = true
 [markup.highlight]
 noClasses = false
 guessSyntax = true
+
 
 [params]
 subtitle = "sui generis."

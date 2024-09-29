@@ -41,6 +41,7 @@ Well, we essentially repeat the same steps as above to count in binary. Just tha
 We start again with the number $0$. It's successor is $1$. Now we ran out of symbols, so we do the same thing as we did before .i.e, add a digit to the left. So the next number is $10$, followed by $11$. Now we ran out of digits again, so we add another digit to the left to get $100$, followed by $101, 110, 111$. We continue this process like so:
 
 $$
+\begin{matrix}
 0\\
 1\\
 10\\
@@ -57,6 +58,7 @@ $$
 1101\\
 1110\\
 1111
+\end{matrix}
 $$
 
 Take a moment to observe that this is essentially the same process as before, we didn't invent some magical representation. It is just as natural as before, just that we don't have a lot of digits to count with. You might notice that every place in a number now signifies a power of two. Which means, the number 1100 is
