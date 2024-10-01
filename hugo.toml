@@ -28,8 +28,6 @@ guessSyntax = true
 [params]
 subtitle = "sui generis."
 description = "I'm Kush Patel, a developer from India. I'm building guided missile systems using turbo encabulators. This website is big div energy"
-favicon = "./favicon.ico"
-touchicon = "./touch-icon.png"
 codeblocksdark = true
 marginNoteInd = "⊕"
 showPoweredBy = false
