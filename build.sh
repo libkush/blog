@@ -1,7 +1,7 @@
 #!/bin/sh
 
 GZIP="/usr/bin/gzip -n"
-BROTLI="/usr/bin/brotli"
+BROTLI="/home/linuxbrew/.linuxbrew/bin/brotli"
 rm -rf public/*
 hugo --minify
 
