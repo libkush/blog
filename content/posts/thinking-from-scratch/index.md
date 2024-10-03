@@ -6,8 +6,8 @@ meta: true
 math: true
 toc: true
 categories: []
-draft: true
-summary: "Sometimes, you can really rely on your raw intellect and intuition to fill the gaps of knowledge. One of my friends came up with a question asked in his Data Structures and Algorithms course, which I myself haven't delved much into, but was still able to come up with a more efficient solution to. I feel like it is important to take a step back, and think from scratch when you can't rely on memory or knowledge."
+draft: false
+summary: "You are given an array of positive integers representing the heights of different buildings (in sequence) with unit width. Now assuming uniform rainfall falls over the entire 2 dimensional city, and water gets collected between every building fully until it can overflow, what will the total volume of the collected water be? I feel like it is important to take a step back, and think from scratch when you can't rely on memory or knowledge."
 ---
 
 Here is a simple problem. You are given an array of positive integers representing the heights of different buildings (in sequence) with unit width. Now assuming uniform rainfall falls over the entire 2 dimensional city, and water gets collected between every building fully until it can overflow, what will the total volume of the collected water be?
@@ -31,4 +31,4 @@ We can start thinking of our new approach in the form of puddles.
 
 The one small exception here would be if there are more than one _tallest_ buildings (meaning there are more than one buildings with the same maximum height), In this case, the water between the first tallest building and the last tallest building would be counted twice. We can simply fix this by creating a third state variable that records the maximum height attained in our first loop. The second loop will end as soon as any maximum height element is found (element with the maximum height we recorded in the previous loop).
 
-You can try to visualize the above algorithm with the steps I gave above because I am too lazy to animate it even though that will probably be the best way to explain this approach. But notice how we only need less than two full loops and a handful of variables stored in memory to compute this in contrast to the given solution which required two arrays of same length to be stored, along with 3 full loops.
+You can try to visualize the algorithm with the steps I gave above. Notice how we only need less than two full loops and a handful of variables stored in memory to compute this in contrast to the given solution which required two arrays of same length to be stored, along with 3 full loops.
