@@ -5,7 +5,7 @@ title: 'Thinking From Scratch'
 meta: true
 math: true
 toc: true
-categories: []
+categories: ['cs']
 draft: false
 summary: "You are given an array of positive integers representing the heights of different buildings (in sequence) with unit width. Now assuming uniform rainfall falls over the entire 2 dimensional city, and water gets collected between every building fully until it can overflow, what will the total volume of the collected water be? I feel like it is important to take a step back, and think from scratch when you can't rely on memory or knowledge."
 ---
