@@ -14,7 +14,7 @@ Here is a simple problem. You are given an array of positive integers representi
 
 ![Example scenario with water getting filled up](problem.svg)
 
-How their teacher approached it was using some strategy previously discussed in the class. They had two loops figure out the right and left maximums for each building. Meaning, every building has another building some distance to its left whith the maximum height in it's entire left, and same for the right side. When the heights maximum on the left and right side of every building were stored in two separate arrays, another loop can simply compare the two limits, and subtract the height of each building from the lower limit to find how much water is there exactly on top of that particular building. Add all the water above every building, and you get the total volume. However I had a very different simpler approach.
+How a course teacher approached it was using some strategy previously discussed in a class. They had two loops figure out the right and left maximums for each building. Meaning, every building has another building some distance to its left whith the maximum height in it's entire left, and same for the right side. When the heights maximum on the left and right side of every building were stored in two separate arrays, another loop can simply compare the two limits, and subtract the height of each building from the lower limit to find how much water is there exactly on top of that particular building. Add all the water above every building, and you get the total volume. However I had a very different simpler approach.
 
 ## Thinking from Scratch
 
