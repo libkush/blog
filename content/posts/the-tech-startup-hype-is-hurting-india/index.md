@@ -30,7 +30,7 @@ Pranjali Awasthi started an AI startup called [Delv AI](https://www.delv.ai/) th
   caption="It does the same thing for free"
   alt="Copilot pane in Microsoft Edge"
 >}}
-So what does delv do? It basically reads a number of academic documents (PDF files), and uses the context to answer questions. Even though there are hundreds of websites popping up to do this exact same thing already and even the built-in bing pane in microsoft edge answers questions from any website or PDF that you have opened, for free, delv has raised $450,000 in funding and gives an approximate valuation of $12 million. Which, in India, is a LOT. I mean, seriously, with that money you could literally buy a large mansion in a metro city.
+So what does delv do? It basically reads a number of academic documents (PDF files), and uses the context to answer questions. Even though there are hundreds of websites popping up to do this exact same thing already and even the built-in bing pane in microsoft edge answers questions from any website or PDF that you have opened, for free, delv has raised \$450,000 in funding and gives an approximate valuation of \$12 million. Which, in India, is a LOT. I mean, seriously, with that money you could literally buy a large mansion in a metro city.
 
 In fact, I just figured out that the screenshot which they are showing as an example of "AI-Powered Clustering Engine" is not even from their product, it is an open source project called [Carrot2](https://search.carrot2.org/#/about)
 {{< figure
