@@ -5,4 +5,4 @@ _build:
   list: never
 ---
 
-Haven't built this yet ¯\_(ツ)_/¯
+Jack of all trades, master of one.
