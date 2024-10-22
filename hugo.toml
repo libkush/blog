@@ -24,6 +24,9 @@ unsafe = true
 noClasses = false
 guessSyntax = true
 
+[outputs]
+home = ["html", "rss", "json"]
+
 
 [params]
 subtitle = "sui generis."
