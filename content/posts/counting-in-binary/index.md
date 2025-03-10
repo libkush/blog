@@ -72,3 +72,7 @@ You can evaluate this sum to get the decimal representation if you want, or you 
 In fact, apart from the standard algorithm to convert decimals into binary, you can use some basic intuition too. If you want to represent the number 37, think of the largest number less than 37 which is a power of two. Well, $2^5$ is $32$, so the sixth place from the right is going to be a 1. Next, we are left with $37-32=5$. Now, $2^2$ is going to be $4$, so the third place from the right is going to be a 1. Next, we are left with $5-4=1$, so the first place from the right is going to be a 1.
 
 The binary representation will be $100101$. It is really that easy.
+
+{{< epigraph >}}
+This of course, is only valid for natural counting numbers. We haven't touched integers or floating point numbers yet. However, the goal of this post was to only make you feel that the natural numbers in binary, are just as natural as decimals. If you want to learn more about binary representations used in computing, I would suggest reading Chapter 2 of the book "Computer Systems: A Programmer’s Perspective" by Randal Bryant. It's a wonderful book.
+{{</ epigraph >}}
